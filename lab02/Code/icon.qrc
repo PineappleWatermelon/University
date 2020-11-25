@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/icon-xxdpi">
+        <file alias="user">like.jpg</file>
+    </qresource>
+</RCC>
